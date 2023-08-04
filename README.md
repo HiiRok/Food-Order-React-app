@@ -1,6 +1,6 @@
 # Mini Food Order React App 
 
-This repository contains a mini food ordering web application built using React and Firebase. The app features a user-friendly UI that allows users to browse a menu, add items to their cart, and proceed to checkout. The cart functionality is managed using React Context for efficient state management. Firebase is used for data storage, providing a seamless experience for both customers .
+This repository contains a mini food ordering web application built using React and Firebase. The app features a user-friendly UI that allows users to browse a menu, add items to their cart, and proceed to checkout. The cart functionality is managed using React Context for efficient state management. Firebase is used for data storage, providing a seamless experience for customers .
 
 
 ## Features
