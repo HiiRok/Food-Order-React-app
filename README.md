@@ -7,9 +7,19 @@ This repository contains a mini food ordering web application built using React 
 
 - Browse a variety of food items in the menu.
 - Add and remove items from the cart.
+- Efficiently use React Portals for a seamless backdrop overlay in the app interface.
 - Adjust the quantity of items in the cart.
 - Real-time cart updates and price calculations.
 - Seamless checkout process.
+
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+*Order Page.*
+
+![Screenshot 2](screenshots/screenshot2.png)
+*Cart Page.*
 
 ## Demo
 
