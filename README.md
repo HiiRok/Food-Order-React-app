@@ -15,10 +15,10 @@ This repository contains a mini food ordering web application built using React 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](Screenshots/screenshot1.png)
 *Order Page.*
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](Screenshots/screenshot2.png)
 *Cart Page.*
 
 ## Demo
