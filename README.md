@@ -23,7 +23,7 @@ This repository contains a mini food ordering web application built using React 
 
 ## Demo
 
-[Link to live demo](https://hiirok.github.io/Food-Order-React-app/) 
+[DEPLOYED WEBSITE LINK](https://hiirok.github.io/Food-Order-React-app/) 
 
 ## Installation
 
